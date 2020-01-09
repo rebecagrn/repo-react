@@ -29,7 +29,7 @@ class ReposContainer extends Component {
   render() {
     return (
       <div>
-        <h1>Repos</h1>
+        <h1>Buscar repositórios</h1>
         <form action="#" onSubmit={this.submitHandler}>
           <input
             onChange={this.changeHandler}
