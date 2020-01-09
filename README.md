@@ -1,3 +1,3 @@
-# Screencast Intro React - app
+# Screen Repo React - app
 
 `npm install && npm start`
